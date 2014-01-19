@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jan 19 15:36:50 EET 2014:
+ Производится загрузка Derby версии The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): экземпляр a816c00e-0143-aab7-d13e-000002ea5ce0
+в каталоге базы данных /home/oleg/jobsdb  sun.misc.Launcher$AppClassLoader@23137792 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_45-b18
+user.dir=/home/oleg/Dropbox/Java/JobsParser
+os.name=Linux
+os.arch=amd64
+os.version=3.5.0-45-generic
+derby.system.home=null
+Запущен загрузчик классов базы данных - derby.database.classpath=''
